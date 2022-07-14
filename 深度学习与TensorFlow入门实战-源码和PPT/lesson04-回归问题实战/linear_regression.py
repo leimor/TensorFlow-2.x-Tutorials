@@ -2,7 +2,7 @@ import numpy as np
 
 
 
-
+# 啥
 # y = wx + b
 def compute_error_for_line_given_points(b, w, points):
     totalError = 0
